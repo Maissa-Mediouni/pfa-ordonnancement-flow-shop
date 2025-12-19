@@ -36,11 +36,21 @@ dédiées constitue un enjeu majeur pour :
 - Amélioration de la performance de production
 - Réduction des temps d’attente
 - Meilleure utilisation des machines
-- ## Auteur
+## Structure du projet
+── data/ # Données d’entrée
+
+── code/ # Scripts d’ordonnancement
+
+── results/ # Résultats et graphiques
+
+── report/ # Rapport du projet
+
+── README.md
+## Auteur
 Maissa Mediouni  
 Élève ingénieur en génie industriel  
  maissa.mediouni@enib.ucar.tn  
 LinkedIn :https://www.linkedin.com/in/maissa-mediouni-4385a8304
 
-## Structure du projet
+
 
